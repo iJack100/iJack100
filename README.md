@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jhoan Ariel 👋
+# ¡Hola! Soy Jhoan Cevallos 👋
 
 ### Estudiante de Ingeniería en Software | Desarrollo de Sistemas & Bases de Datos
 
