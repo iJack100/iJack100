@@ -10,8 +10,16 @@
 ---
 
 ### 🛠️ Stack Tecnológico
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="35"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="35"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="35">
+<p align="center">
+  <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://react.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://www.mysql.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://github.com" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://git-scm.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+</p>
 
 ---
 
