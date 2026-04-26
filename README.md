@@ -5,7 +5,6 @@
 - 🔭 Actualmente cursando el 4to semestre de Ingeniería en Software en la UNEMI.
 - 🌱 Especializándome en el dominio de **Python** y la arquitectura de **Bases de Datos**.
 - 🛠️ Enfocado en el desarrollo de soluciones lógicas y optimización de sistemas.
-- 💬 Interesado en el desarrollo backend y la gestión eficiente de consultas SQL.
 
 ---
 
