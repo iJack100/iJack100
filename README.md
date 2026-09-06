@@ -2,7 +2,7 @@
 
 ### Estudiante de Ingeniería en Software | Desarrollo de Sistemas & Bases de Datos
 
-- 🔭 Actualmente cursando el 4to semestre de Ingeniería en Software en la UNEMI.
+- 🔭 Actualmente cursando el 5to semestre de Ingeniería en Software en la UNEMI.
 - 🌱 Especializándome en el dominio de **Python** y la arquitectura de **Bases de Datos**.
 - 🛠️ Enfocado en el desarrollo de soluciones lógicas y optimización de sistemas.
 
