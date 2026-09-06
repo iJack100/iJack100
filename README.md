@@ -22,4 +22,4 @@
 ---
 
 ### 📫 Contacto
-- Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jhoancevallos/?skipRedirect=true)
+- Puedes encontrarme en [LinkedIn]()
