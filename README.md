@@ -123,11 +123,7 @@
 | Integración de frontend y backend | SQL, modelado relacional y dimensional |
 | Pruebas y documentación | Calidad, integridad y trazabilidad |
 
-## 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=iJack100&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&locale=es" alt="Estadísticas públicas de GitHub de iJack100" />
-</p>
+## 📊 Lenguajes en mis repositorios
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iJack100&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&locale=es&custom_title=Lenguajes%20en%20mis%20repositorios" width="467" alt="Distribución de lenguajes en los repositorios públicos de iJack100" />
