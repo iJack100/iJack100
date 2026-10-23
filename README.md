@@ -126,7 +126,7 @@
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=iJack100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&locale=es" alt="Estadísticas públicas de GitHub de iJack100" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=iJack100&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&locale=es" alt="Estadísticas públicas de GitHub de iJack100" />
 </p>
 
 <p align="center">
