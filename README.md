@@ -1,13 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=200&section=header&text=Jhoan%20Ariel%20Cevallos&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Desarrollo%20web%20%C2%B7%20APIs%20%C2%B7%20Datos&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Jhoan Cevallos — Desarrollo web, APIs y datos" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=200&section=header&text=Jhoan%20Cevallos&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Desarrollo%20web%20%C2%B7%20APIs%20%C2%B7%20Datos&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Jhoan Cevallos — Desarrollo web, APIs y datos" />
 </p>
 
-<h1 align="center">¡Hola! Soy Jhoan 👋</h1>
-
-<p align="center">
-  <b>Estudiante de Ingeniería en Software en UNEMI · 5.º semestre</b><br />
-  Construyo aplicaciones web y proyectos de datos para aprender resolviendo problemas.
-</p>
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Animación de un desarrollador programando" />
+    </td>
+    <td width="60%" align="center" valign="middle">
+      <h1>¡Hola! Soy Jhoan 👋</h1>
+      <p><b>Estudiante de Ingeniería en Software en UNEMI · 5.º semestre</b></p>
+      <p>Construyo aplicaciones web y proyectos de datos para aprender resolviendo problemas.</p>
+    </td>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="150" alt="Animación de programación y tecnología" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=700&lines=Python+y+SQL+para+transformar+datos;C%23+y+ASP.NET+Core+para+construir+APIs;Angular+y+React+para+crear+interfaces;Aprendiendo%2C+construyendo+y+mejorando" alt="Python y SQL · C# y ASP.NET Core · Angular y React · Aprendizaje continuo" />
