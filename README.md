@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=200&section=header&text=Jhoan%20Ariel%20Cevallos&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Desarrollo%20web%20%C2%B7%20APIs%20%C2%B7%20Datos&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Jhoan Ariel Cevallos — Desarrollo web, APIs y datos" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=200&section=header&text=Jhoan%20Ariel%20Cevallos&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Desarrollo%20web%20%C2%B7%20APIs%20%C2%B7%20Datos&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Jhoan Cevallos — Desarrollo web, APIs y datos" />
 </p>
 
 <h1 align="center">¡Hola! Soy Jhoan 👋</h1>
