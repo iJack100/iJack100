@@ -129,6 +129,12 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=iJack100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&locale=es" alt="Estadísticas públicas de GitHub de iJack100" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iJack100&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&locale=es&custom_title=Lenguajes%20en%20mis%20repositorios" width="467" alt="Distribución de lenguajes en los repositorios públicos de iJack100" />
+</p>
+
+<p align="center"><sub>Distribución del código en mis repositorios públicos; no representa mi nivel de dominio de cada lenguaje.</sub></p>
+
 ## 🤝 Conectemos
 
 Estoy abierto a **pasantías y oportunidades junior** en desarrollo, datos, QA o soporte TI. Resido en **Guayas, Ecuador**, y me interesan oportunidades presenciales en la provincia o remotas que permitan trabajar desde Ecuador.
