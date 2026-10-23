@@ -8,7 +8,7 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Animación de un desarrollador programando" />
     </td>
     <td width="60%" align="center" valign="middle">
-      <h1>¡Hola! Soy Jhoan 👋</h1>
+      <h1> Holap, Soy Jhoan 👋</h1>
       <p><b>Estudiante de Ingeniería en Software en UNEMI · 5.º semestre</b></p>
       <p>Construyo aplicaciones web y proyectos de datos para aprender resolviendo problemas.</p>
     </td>
